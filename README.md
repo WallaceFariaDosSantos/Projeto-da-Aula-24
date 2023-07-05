@@ -1,2 +1,1 @@
-# Projeto-da-Aula-24
-Projeto da aula 24
+# PRO-C24-ArqueiroEpico-Modelo
